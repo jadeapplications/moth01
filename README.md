@@ -8,9 +8,8 @@ Application that mimics the behaviour of a moth to light.  When far away, it hom
 Type              : C
 Version           : 01.0
 Author            : myke predko
-Firmware          : 40
+Firmware          : 42
 ```
-
 
 ### Release History:
 2014.09.15 - Initial Release.
